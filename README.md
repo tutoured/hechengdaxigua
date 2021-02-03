@@ -120,7 +120,7 @@
 
 > 如果要替换为一键部署自己的仓库，要先 fork 我的仓库，本地修改后再提交到自己 fork 的仓库，最后把一键部署按钮仓库地址改为自己的仓库即可！
 
-[![](https://main.qcloudimg.com/raw/67f5a389f1ac6f3b4d04c7256438e44f.svg)](https://console.cloud.tencent.com/tcb/env/index?action=CreateAndDeployCloudBaseProject&appUrl=https%3A%2F%2Fgithub.com%2Ftutoured%2Fhechengdaxigua&workDir=hechengdaxigua&branch=master)
+[![](https://main.qcloudimg.com/raw/95b6b680ef97026ae10809dbd6516117.svg)](https://console.cloud.tencent.com/tcb/env/index?action=CreateAndDeployCloudBaseProject&appUrl=https%3A%2F%2Fgithub.com%2Ftutoured%2Fhechengdaxigua&branch=master)
 
 
 #### Vercel
